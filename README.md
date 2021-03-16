@@ -1,1 +1,1 @@
-<h1>A simple logistical series calculator</h1>
+<h1>A simple program to create a logistic map image</h1>
